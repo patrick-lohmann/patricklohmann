@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @patricklohmann, Webdeveloper born, grew up & based in Germany.
-- 👀 I’m interested in digital art, UX/UI-, Frontend- & Webdesign, Full-stack Development
-- 🌱 I’m mainly deal with JavaScript/TypeScript (NodeJS, Angular, Vue/Nuxt...), Python + Django, PHP 
-- 💞️ I’m currently do an apprenticeship as prof. Full-stack Developer
+- 👋 Hi, I’m @patricklohmann, prospective full-stack developer.
+- 🍼 I'm born, grew up & based in Ibbenbüren (Northrhine Westfalia, Germany).
+- 👀 I love digital art & image processing, UX/UI design and anythink that as to do with software development. 
+- 💞️ I’m currently do an apprenticeship as certified full-stack developer.
 - 📫 coming soon.
 
 <!---
